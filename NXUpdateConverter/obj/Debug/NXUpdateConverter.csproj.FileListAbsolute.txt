@@ -1,0 +1,15 @@
+D:\Programs\NXUpdateConverter\NXUpdateConverter\bin\Debug\NXUpdateConverter.exe.config
+D:\Programs\NXUpdateConverter\NXUpdateConverter\bin\Debug\NXUpdateConverter.exe
+D:\Programs\NXUpdateConverter\NXUpdateConverter\bin\Debug\NXUpdateConverter.pdb
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.csprojAssemblyReference.cache
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.Form1.resources
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.Properties.Resources.resources
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.csproj.GenerateResource.cache
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.csproj.CoreCompileInputs.cache
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.exe
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.pdb
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.Info.resources
+D:\Programs\NXUpdateConverter\NXUpdateConverter\bin\Debug\NXUpdateConverter.exe.manifest
+D:\Programs\NXUpdateConverter\NXUpdateConverter\bin\Debug\NXUpdateConverter.application
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.exe.manifest
+D:\Programs\NXUpdateConverter\NXUpdateConverter\obj\Debug\NXUpdateConverter.application
